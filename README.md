@@ -9,5 +9,11 @@
 
 - 💬 Ask me about Frontend
 
-- 📫 How to reach me: @shariquepathan (Instagram)
+- ⛰️ You will find me learning new library or framework in my free time.
 
+## Contact Me :man:
+- [LinkedIn](https://www.linkedin.com/in/sharique-khan-673551159/)
+
+- [Twitter](https://twitter.com/Sharique_khan_)
+
+- [Instagram](https://www.instagram.com/shariquepathan)
