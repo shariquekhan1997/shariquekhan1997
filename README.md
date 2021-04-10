@@ -3,7 +3,7 @@
 
 - 📚 Currently building products for Microsoft Dynamics CRM 365 (1.7+ years)
 
-- 💪 Software Engineer | Problem Solver.
+- 💪 Software Engineer | Full Stack Developer | Problem Solver.
 
 - 👯 I’m looking to collaborate on UI projects
 
