@@ -17,3 +17,5 @@
 - [Twitter](https://twitter.com/Sharique_khan_)
 
 - [Instagram](https://www.instagram.com/shariquepathan)
+
+- [Facebook](https://www.facebook.com/shariqueofficial)
