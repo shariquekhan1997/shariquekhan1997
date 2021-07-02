@@ -12,6 +12,7 @@
 - ⛰️ You will find me learning new library or framework in my free time.
 
 ## Contact Me :man:
+
 - [LinkedIn](https://www.linkedin.com/in/sharique-khan-673551159/)
 
 - [Twitter](https://twitter.com/Sharique_khan_)
@@ -19,6 +20,10 @@
 - [Instagram](https://www.instagram.com/shariquepathan)
 
 - [Facebook](https://www.facebook.com/shariqueofficial)
+
+## Work
+
+- [PalleteGenerator.js](https://shariquekhan1997.github.io/PaletteGenerator.js/)
 
 - [Portfolio](https://shariquekhan1997.github.io/my-portfolio) (Under Construction)
 
