@@ -21,11 +21,9 @@
 
 - [Facebook](https://www.facebook.com/shariqueofficial)
 
-## Work
+## Open Source Work
 
 - [PalleteGenerator.js](https://shariquekhan1997.github.io/PaletteGenerator.js/)
-
-- [Portfolio](https://shariquekhan1997.github.io/my-portfolio) (Under Construction)
 
 ## Referentials (more to come...)
 
