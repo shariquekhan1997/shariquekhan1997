@@ -11,8 +11,6 @@
 
 - ⛰️ You will find me learning new library or framework in my free time.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shariquekhan1997&theme=dark)](https://git.io/streak-stats)
-
 ## Contact Me :man:
 
 - [LinkedIn](https://www.linkedin.com/in/sharique-khan-673551159/)
@@ -22,6 +20,8 @@
 - [Instagram](https://www.instagram.com/shariquepathan)
 
 - [Facebook](https://www.facebook.com/shariqueofficial)
+
+<a href="https://stackoverflow.com/users/10225494/sharique-khan"><img src="https://stackoverflow.com/users/flair/10225494.png?theme=clean" width="208" height="58" alt="" title="Sharique Khan at Stack Overflow"></a>
 
 ## Open Source Work
 
