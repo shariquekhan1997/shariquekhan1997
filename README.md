@@ -11,6 +11,8 @@
 
 - ⛰️ You will find me learning new library or framework in my free time.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shariquekhan1997&theme=dark)](https://git.io/streak-stats)
+
 ## Contact Me :man:
 
 - [LinkedIn](https://www.linkedin.com/in/sharique-khan-673551159/)
