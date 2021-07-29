@@ -1,11 +1,11 @@
 ### Hi I am Sharique Khan 👋
 - 💻 Skilled in C#, ReactJs, TypeScript, Microsoft Dynamics CRM 365, Powerapps Component Framework, and JavaScript.
 
-- 📚 Currently building products for Microsoft Dynamics CRM 365 (1.11+ years)
+- 📚 Currently building products for Microsoft Dynamics CRM 365 (2+ years)
 
 - 💪 Software Engineer | Full Stack Developer | Problem Solver.
 
-- 👯 I’m looking to collaborate on UI projects
+- 👯 I’m looking to collaborate in PCF and React Projects.
 
 - 💬 Ask me about Frontend
 
@@ -21,7 +21,7 @@
 
 - [Facebook](https://www.facebook.com/shariqueofficial)
 
-<a href="https://stackoverflow.com/users/10225494/sharique-khan"><img src="https://stackoverflow.com/users/flair/10225494.png?theme=clean" width="208" height="58" alt="" title="Sharique Khan at Stack Overflow"></a>
+<a href="https://stackoverflow.com/users/10225494/sharique-khan"><img src="https://stackoverflow.com/users/flair/10225494.png?theme=dark" width="208" height="58" alt="" title="Sharique Khan at Stack Overflow"></a>
 
 ## Open Source Work
 
