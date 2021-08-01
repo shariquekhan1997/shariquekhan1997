@@ -5,7 +5,7 @@
 
 - 💪 Software Engineer | Full Stack Developer | Problem Solver.
 
-- 👯 I’m looking to collaborate in PCF and React Projects.
+- 👯 I’m looking for contributors in my open source work.
 
 - 💬 Ask me about Frontend
 
