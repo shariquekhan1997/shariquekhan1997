@@ -29,4 +29,9 @@
 
 ## Referentials (more to come...)
 
-- [Grab the cheapest Netflix Accounts and much more](https://accountbot.io/ref/bf94358f-3476-9776-d501-9e8508690425)
+- [Netflix starts at $2.99](https://accountbot.io/ref/bf94358f-3476-9776-d501-9e8508690425)
+
+- [Cruncyroll starting at $1.99](https://accountbot.io/ref/bf94358f-3476-9776-d501-9e8508690425)
+
+- [Grammarly and Skillshare starts at $4.99](https://accountbot.io/ref/bf94358f-3476-9776-d501-9e8508690425)
+
