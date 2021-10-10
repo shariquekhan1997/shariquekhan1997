@@ -23,7 +23,7 @@
 
 <a href="https://stackoverflow.com/users/10225494/sharique-khan"><img src="https://stackoverflow.com/users/flair/10225494.png?theme=dark" width="208" height="58" alt="" title="Sharique Khan at Stack Overflow"></a>
 
-## Open Source Work
+## Open Source Work 💻
 
 - [PalleteGenerator.js](https://shariquekhan1997.github.io/PaletteGenerator.js/)
 
