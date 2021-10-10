@@ -27,7 +27,7 @@
 
 - [PalleteGenerator.js](https://shariquekhan1997.github.io/PaletteGenerator.js/)
 
-## Referentials (more to come...)
+## Referentials 🤝
 
 - [Netflix starts at $2.99](https://accountbot.io/ref/bf94358f-3476-9776-d501-9e8508690425)
 
