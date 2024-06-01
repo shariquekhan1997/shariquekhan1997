@@ -1,13 +1,13 @@
 ### Hi I am Sharique Khan 👋
 - 💻 Skilled in C#, ReactJs, TypeScript, Microsoft Dynamics CRM 365, Powerapps Component Framework, and JavaScript.
 
-- 📚 Currently building products for Microsoft Dynamics CRM 365 (4+ years)
+- 📚 Currently building products for Microsoft Dynamics 365 CRM (5+ years)
 
 - 💪 Software Engineer | Full Stack Developer | Problem Solver.
 
 - 👯 I’m looking for contributors in my open source work.
 
-- 💬 Ask me about Frontend
+- 💬 Ask me about anything in Dynamics 365 CRM
 
 - ⛰️ You will find me learning new library or framework in my free time.
 
