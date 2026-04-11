@@ -30,6 +30,6 @@
 - [PalleteGenerator.js](https://shariquekhan1997.github.io/PaletteGenerator.js/)
 - [Void Defender](https://shariquekhan1997.github.io/Void-Defender/)
 
-## Hobbies
+## Interests 🤟
 
 - Creating VS Code Extensions and building Windows Applications.
