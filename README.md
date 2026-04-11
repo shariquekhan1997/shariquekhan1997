@@ -1,7 +1,7 @@
-### Hi I am Sharique Khan 👋
-- 💻 Skilled in C#, ReactJs, TypeScript, Microsoft Dynamics CRM 365, Powerapps Component Framework, and JavaScript.
+### Hi, I am Sharique Khan 👋
+- 💻 Skilled in C#, ReactJS, TypeScript, Microsoft Dynamics CRM 365, Power Apps Component Framework, and JavaScript.
 
-- 📚 Currently building and managing products for Microsoft Dynamics 365 CRM (6.5+ years)
+- 📚 Currently building and managing products for Microsoft Dynamics 365 CRM (6.9+ years)
 
 - 💪 Solution Architect | Sr. Software Engineer | Full Stack Developer | Problem Solver.
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about anything in Dynamics 365 CRM
 
 - ⛰️ You will find me building Agents and learning new AI tools in my free time.
+
+- 🤖 I can automate anything.
 
 ## Contact Me :man:
 
@@ -26,12 +28,8 @@
 ## Open Source Work 💻
 
 - [PalleteGenerator.js](https://shariquekhan1997.github.io/PaletteGenerator.js/)
+- [Void Defender](https://shariquekhan1997.github.io/Void-Defender/)
 
-<!-- ## Referentials 🤝
+## Hobbies
 
-- [Netflix starts at $2.99](https://accountbot.io/ref/bf94358f-3476-9776-d501-9e8508690425)
-
-- [Cruncyroll starting at $1.99](https://accountbot.io/ref/bf94358f-3476-9776-d501-9e8508690425)
-
-- [Grammarly and Skillshare starts at $4.99](https://accountbot.io/ref/bf94358f-3476-9776-d501-9e8508690425) -->
-
+- Creating VS Code Extensions and building Windows Applications.
